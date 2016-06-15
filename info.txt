@@ -1,1 +1,1 @@
-info file master
+info file release1.0
